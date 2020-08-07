@@ -18,7 +18,7 @@ EDIBO_projekta_elektroniskā_karte
 **.**        = ‘the current directory’.  
 **ls**       = Current working directory.  
 **pwd**      = Prints the user’s current working directory.  
-**cat**      = Displays the contents of its inputs.  
+**cat**      = Displays the contents of its inputs. To **exit** press **ctrl +c**.    
 **more**     = Filter for paging through text one screenful at a time.  
 **less**     = Viewing the files instead of opening the file.  
 **head**     = Displays the first 10 lines of its input.  
