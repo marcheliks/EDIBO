@@ -33,3 +33,8 @@ EDIBO_projekta_elektroniskā_karte
 Teksts1
 Teksts2  
 Teksts3
+- ASCII table
+### ASCII table
+[ASCII TABLE ](https://www.gammon.com.au/unicode/EBCDIC.svg.png)
+
+
