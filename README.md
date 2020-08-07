@@ -24,7 +24,7 @@ EDIBO_projekta_elektroniskā_karte
 **head**     = Displays the first 10 lines of its input.  
 **tail**     = Displays the last 10 lines of its input.  
 **mkdir**    = Create a directory if not already exist.  
-**rmdir**    = Delete a directory if it is empty.
+**rmdir**    = Delete a directory if it is empty.  
 **date**     = Date.  
 **cal**      = Calendar.  
 
