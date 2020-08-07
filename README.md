@@ -1,0 +1,2 @@
+# EDIBO
+EDIBO_projekta_elektroniskā_karte
