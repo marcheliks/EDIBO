@@ -1,15 +1,19 @@
 # EDIBO
 EDIBO_projekta_elektroniskā_karte
-## Day 01 - Day 02
+## Day 01 - Day 04
 ### Topics:
 - Terminal (hot- keys)
-1. Ctrl +  Alt  + *T* = Open Terminal.
-2. Ctrl + Shift + *Q* = Close Terminal.
-3. Ctrl + Shift + *T* = Atvērt jaunā cildnē.
-4. Ctrl + Shift + **+** = Zoom in.
-5. Ctrl + **-** =  Zoom out.
-6. Ctrl +  *L*  =  Clear.
-7. Ctrl + **0** =  Orginal text size.
+1. Ctrl +  Alt  + *T*     = Open Terminal.
+2. Ctrl + Shift + *Q*     = Close Terminal.
+3. Ctrl + Shift + *T*     = Atvērt jaunā cildnē.
+4. Ctrl + Shift + **+**   = Zoom in.
+5. Ctrl + **-**           =  Zoom out.
+6. Ctrl +  *L*            =  Clear.
+7. Ctrl + **0**           =  Orginal text size.
+9. G                      =  Go to the first line
+10. Ctrl + *G*            =  Go to the last line. 
+11. Ctrl + *Page Up*      =  Change Tabs.
+12. *A*  + 2 * *TABS*     =  All comands.
 - shell (basics)  
 **PS1= "$"** = User name.  
 **cd**       = Path changes the current working directory.  
@@ -27,6 +31,9 @@ EDIBO_projekta_elektroniskā_karte
 **rmdir**    = Delete a directory if it is empty.  
 **date**     = Date.  
 **cal**      = Calendar.  
+**cal 20**   = Full 2020 Calendar.
+**wc**        = Text format. 
+**w**        = shows who is logged in to the system and what they are doing.
 
 - Git (Basics)
 ### Tests
