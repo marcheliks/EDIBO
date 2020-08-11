@@ -1,0 +1,21 @@
+Programmēšanas "paņēmieni" vai svarīgākās konstrukcijas:
+1.a. mainīgie - tiek lietoti identifikātori
+ (a, b, ab, a_b drīkst), ("a b"- nedrīkst izmantot)
+1.b. konstantes -"-
+2. operācijas =, +, -, /, %, ...
+(parasti operācija notiek ar diviem operandiem)
+3.a. nosacījuma operators - if ( var būt ar else, var būt elif, ...)
+koda izpildes sazarošanai
+3. b. cikla operators - for, while, do ... while 
+koda daļas izpildīšanas atkārtošanai
+(ekvivalents - daudzas manuāli blakus sarakstītas līdzīgas rindas)
+4.funkcijas - ar argumentiem/ bez argumentiem un ar atgriežamiem lielumiem/ bez atgriežamiem lielumiem
+
+Izmeiģinācim dažus no šiem paņēmieniem SHELL'ā:
+izmantosim piemērus no tutorialpoint.com
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+Izvade
+https://www.tutorialspoint.com/unix/unix-using-arrays.htm 
+Izvade ar piemēriem
+https://www.tutorialspoint.com/unix/unix-basic-operators.htm
+Reiķināšana
